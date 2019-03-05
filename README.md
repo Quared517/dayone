@@ -1,0 +1,2 @@
+# dayone
+Just learning python
